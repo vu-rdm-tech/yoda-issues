@@ -1,1 +1,1 @@
-compile pilot issues in this repository
+We can track issues found by the project team and users during the pilots here.
